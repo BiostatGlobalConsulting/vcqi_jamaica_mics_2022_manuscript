@@ -736,8 +736,7 @@ if (vcqi_object_exists("VCTC_globals_path")){
   source(file = VCTC_globals_path)
 } else {
   #VCTC_global_same_legend_for_all()
-  #VCTC_global_modified_legend_for_bcg()
-  VCTC_global_modified_legend_for_bcg_jamaica()
+  VCTC_global_modified_legend_for_bcg()
   #VCTC_global_modified_legend_for_bcg_hepb()
   #VCTC_global_modified_legend_for_bcg_hepb0()
 }
